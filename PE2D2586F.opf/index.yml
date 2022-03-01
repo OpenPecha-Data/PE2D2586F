@@ -1,0 +1,124 @@
+id: 5e2871de17664a68aee38f198d5a93ca
+annotation_type: index
+revision: '00001'
+annotations:
+  a7c1c8881aae4878b76190ebd0559c99:
+    work_id: W2A34A52A
+    span:
+      vol: Colophon
+      start: 0
+      end: 58
+  c635632bdc9243398e80518f09a89509:
+    work_id: WC5779964
+    span:
+      vol: §0-4
+      start: 0
+      end: 1885
+  d78015a54b554bf68d632adfc733b7fb:
+    work_id: W41EA48BE
+    span:
+      vol: §10
+      start: 0
+      end: 866
+  54f6e2f05b4b41cea4eb3df1d8d2e3f0:
+    work_id: W0D626FB1
+    span:
+      vol: §11-12
+      start: 0
+      end: 1379
+  b21d394b87754993a6538270a2d797f8:
+    work_id: W33B0504F
+    span:
+      vol: §13
+      start: 0
+      end: 1021
+  a3a8363f515848599b9e854f1e0fc237:
+    work_id: W5E5250DE
+    span:
+      vol: §14
+      start: 0
+      end: 1496
+  fd49cc5f37ea49a0afaba3599d498377:
+    work_id: W55179455
+    span:
+      vol: §15
+      start: 0
+      end: 947
+  c4bf2cac929940a8afda238b20ba445e:
+    work_id: W56054D0A
+    span:
+      vol: §16
+      start: 0
+      end: 1822
+  8fce1559143841e3b9a422f3b78eb346:
+    work_id: W70E0C90F
+    span:
+      vol: §17
+      start: 0
+      end: 1524
+  f20db7f1a4954741b6a0157323256b66:
+    work_id: W0F009A68
+    span:
+      vol: §18
+      start: 0
+      end: 869
+  ddf3f903ec604c83aa56af3e08795335:
+    work_id: W470F47E1
+    span:
+      vol: §19
+      start: 0
+      end: 940
+  166e10c0a2374179a5aa4cc0c3e0f54a:
+    work_id: WE4E51ACD
+    span:
+      vol: §20
+      start: 0
+      end: 1023
+  4fcb0c675eb640d2a3644f81d4b3e10e:
+    work_id: WAB5B7AA9
+    span:
+      vol: §21
+      start: 0
+      end: 1298
+  ecdcd2c2d13340bca3b5f983903fb159:
+    work_id: WAA4E24EB
+    span:
+      vol: §22
+      start: 0
+      end: 304
+  953601a7917f4f2287063a7ce44692f3:
+    work_id: WFDD6BC9F
+    span:
+      vol: §23
+      start: 0
+      end: 263
+  4eb7286645f64bb880af9fb78fbd5232:
+    work_id: W4E2EDD41
+    span:
+      vol: §5
+      start: 0
+      end: 3793
+  8e99d2eb61b74e3daa298e0a5e1d7095:
+    work_id: W62F1239F
+    span:
+      vol: §6
+      start: 0
+      end: 722
+  2af891e921124fdc9ae70bab4cc153f4:
+    work_id: W80C63C40
+    span:
+      vol: §7
+      start: 0
+      end: 1135
+  46548abeb6324baf9bc0b669474c8a2a:
+    work_id: W474B66B1
+    span:
+      vol: §8
+      start: 0
+      end: 1075
+  e2579e3ec78d4c05adc32f01f1e9df19:
+    work_id: W8E766678
+    span:
+      vol: §9
+      start: 0
+      end: 961
